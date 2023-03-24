@@ -10,9 +10,9 @@
  \$$$$$$$$ \$$ \$$$$$$$  \$$        \$$$$$$$ \$$       \$$  \$$$$$$   \$$$$$\$$$$ 
 ```
 
-# Libreflow - The Project Management App That Doesn't Suck
+# LibreFlow - The Project Management App That Doesn't Suck
 
-Tired of clunky project management tools that make you want to pull your hair out? Well, put down the Rogaine and pick up Libreflow!
+Tired of clunky project management tools that make you want to pull your hair out? Well, put down the Rogaine and pick up LibreFlow!
 
 ## Features
 
@@ -24,7 +24,7 @@ Tired of clunky project management tools that make you want to pull your hair ou
 
 ## Getting Started
 
-Ready to give Libreflow a whirl? Great! You can easily self-host Libreflow using Docker and a PostgreSQL database. Here's how:
+Ready to give LibreFlow a whirl? Great! You can easily self-host Libreflow using Docker and a PostgreSQL database. Here's how:
 
 1. Install [Docker](https://docs.docker.com/get-docker/) on your machine.
 2. Clone the Libreflow repository: `git clone https://github.com/libreflow/libreflow.git`.
